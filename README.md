@@ -50,7 +50,7 @@ cd my-turborepo
 pnpm dev
 ```
 
-### Develop
+### Components
 
 To install shadcn components navigate to `packages/ui/`
 
