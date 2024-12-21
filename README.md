@@ -52,7 +52,7 @@ pnpm dev
 
 ### Develop
 
-To install shadcn navigate to `packages/ui/`
+To install shadcn components navigate to `packages/ui/`
 
 ```
 npx shadcn@latest add component
